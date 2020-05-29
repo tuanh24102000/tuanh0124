@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <a href="sneakernews.com"> Sneaker News </a>
+        <a href="https://www.sneakernews.com"> Sneaker News </a>
     </body>
 </html>
